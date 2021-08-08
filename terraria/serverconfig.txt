@@ -1,0 +1,7 @@
+world=/opt/terraria/Worlds/杜王町.wld
+autocreate=3
+worldname=杜王町
+difficulty=2
+maxplayers=8
+password=JOJO
+worldpath=/opt/terraria/Worlds
